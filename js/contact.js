@@ -1,0 +1,12 @@
+$(document).ready(function(){
+	$('.input_over').each(function(){
+        $(this).on('blur', function(){
+            if($(this).val().trim() != "") {
+                $(this).addClass('has-val');
+            }
+            else {
+                $(this).removeClass('has-val');
+            }
+        });   
+    });
+})
