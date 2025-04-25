@@ -1278,7 +1278,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2225px!important;
+		height: auto!important;
 	}
 	.top_dishes_heading h1, .favourtite_top_dishes_heading h1, .top_gellery_heading h1, .top_reservation_heading h1{
 		font-size: 30px!important;
@@ -1364,7 +1364,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2180px!important;
+		height: auto!important;
 	}
 	.reservation {
 		width: 100%!important;
@@ -1479,7 +1479,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2300px!important;
+		height: auto!important;
 	}
 	.food_filter ul {
 		position: relative!important;
@@ -1604,7 +1604,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2300px!important;
+		height: auto!important;
 	}
 	.food_filter ul {
 		position: relative!important;
@@ -1679,7 +1679,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2280px!important;
+		height: auto!important;
 	}
 	.footer_section .row.row-cols-2 p {
 		font-size: 14px!important;
@@ -1779,7 +1779,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2280px!important;
+		height: auto!important;
 	}
 	.slider {
 		width: 100%!important;
@@ -1926,7 +1926,7 @@
 	}
 	.top_dishes_heading .dishes_sec_line, .favourtite_top_dishes_heading .favourtite_sec_line, .top_gellery_heading .gallery_sec_line, .top_reservation_heading .reservation_sec_line {
 		width: 110px!important;
-		height: 3px!important;
+		height: auto!important;
 	}
 	.food_link .food_wrap {
 		position: relative!important;
@@ -2162,7 +2162,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2310px!important;
+		height: auto!important;
 	}
 	.slider {
 		width: 100%!important;
