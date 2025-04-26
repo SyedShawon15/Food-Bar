@@ -194,7 +194,6 @@ body{
 }
 .left_text{
 	position:relative;
-	//top:50px;
 	padding-right:40px;
 	margin:60px;
 }
@@ -209,7 +208,6 @@ body{
 	padding-top:50px;
 	font-size:20px;
 	margin:0;
-	color:#55555;
 	text-align:justify;
 	font-family: 'Flamenco', cursive;
 	font-weight:none;
@@ -769,7 +767,6 @@ body{
 .food_details{
 	width:100%;
 	height:auto;
-	//background:#fff;
 }
 .all_food_details{
 	position:relative;
