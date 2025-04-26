@@ -1543,6 +1543,10 @@
         bottom: 0 !important;
         padding-top: 0 !important;
     }
+	.top_gellery {
+		width: 620px;
+		height: 200px;
+	}
 }
 @media (max-width:450px){
 	.col-lg-7{
