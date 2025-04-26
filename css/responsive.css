@@ -1537,6 +1537,12 @@
 	.button_area .button-group-area a.genric-btn.more.warning.warning-border{
 		width: 110px!important;
 	}
+	.item_wrapper {
+        position: relative !important;
+        width: 100% !important;
+        bottom: 0 !important;
+        padding-top: 0 !important;
+    }
 }
 @media (max-width:450px){
 	.col-lg-7{
