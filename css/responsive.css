@@ -861,7 +861,7 @@
 	}
 	.gallery {
 		width: 100%!important;
-		height: 2225px!important;
+		height: auto!important;
 	}
 	.slider{
 		width:100%!important;
