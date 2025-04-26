@@ -1547,6 +1547,19 @@
 		width: 620px;
 		height: 200px!important;
 	}
+	.food_filter ul {
+        position: relative !important;
+        top: 0 !important;
+		bottom: 0!important;
+		padding: 0!important;;
+        width: 240px !important;
+    }
+	.food_filter {
+		position: relative;
+		display: block!important;;
+		text-align: center;
+		margin-bottom: 25px;
+	}
 }
 @media (max-width:450px){
 	.col-lg-7{
@@ -1607,11 +1620,6 @@
 	.food_name h4 {
 		font-size: 16px!important;
 	}
-	.food_filter ul {
-		position:relative!important;
-		bottom:50px!important;
-		padding: 70px!important;
-	}
 	.gallery {
 		width: 100%!important;
 		height: auto!important;
@@ -1619,12 +1627,13 @@
 	.food_filter ul {
 		position: relative!important;
 		bottom: 85px!important;
-		padding: 120px!important;
+		padding: 0!important;
 	}
 	.item_wrapper {
 		position: relative!important;
 		width: 100%!important;
-		bottom: 130px!important;
+		top: 0!important;
+		bottom: 0!important;
 		padding-top: 0!important;
 	}
 	.about_story {
@@ -1784,8 +1793,9 @@
 	}
 	.food_filter ul {
 		position:relative!important;
-		bottom:50px!important;
-		padding: 70px!important;
+		top: 0!important;
+		bottom: 0!important;
+		padding: 0!important;
 	}
 	.gallery {
 		width: 100%!important;
