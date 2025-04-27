@@ -809,7 +809,8 @@ body{
 }
 .gallery{
 	width:100%;
-	background:#a35353;
+	height: 100%;
+	background:white;
 }
 .top_gellery{
 	width:620px;
